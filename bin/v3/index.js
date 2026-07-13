@@ -6,7 +6,7 @@ import {
     getImportEndLine,
     getImportVariables,
     getImportVariablesDetails
-} from "../../../express-check-any-for-import/index.js";
+} from "express-check-any-for-import";
 
 import start from "./start.js";
 

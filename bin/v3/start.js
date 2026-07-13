@@ -1,4 +1,4 @@
-import { getImportVariablesDetails } from "../../../express-check-any-for-import/index.js";
+import { getImportVariablesDetails } from "express-check-any-for-import";
 
 /**
  * Main start entrypoint. Checks if the variable is imported,
